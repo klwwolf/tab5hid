@@ -5,6 +5,14 @@ Turn the **M5Stack Tab5 (ESP32-P4)** into a fully standalone
 
 ---
 
+## 🚧 Current Status
+
+✅ USB HID (keyboard + mouse done)  
+🔄 BLE HID (working on)  
+🔄 Unified system (planified)
+
+---
+
 ## ⚡ Features
 
 - 🖱️ Touchpad mouse (smooth + adjustable speed)
@@ -52,22 +60,3 @@ Touch → Input Engine → HID Output (USB)
 - Low power consumption
 - Fast input loop
 - Idle detection (auto shutdown)
-
----
-
-## 🚧 Current Status
-
-✅ USB HID (keyboard + mouse)  
-🔄 BLE HID (planned)  
-🔄 Unified system (USB + BLE)  
-
----
-
-## 📜 License
-
-**Custom Non-Commercial License**
-
-- ✔️ Personal use & modification allowed  
-- ❌ Commercial use strictly forbidden  
-
-For commercial usage, contact the author.
