@@ -71,26 +71,3 @@ Touch → Input Engine → HID Output (USB)
 - ❌ Commercial use strictly forbidden  
 
 For commercial usage, contact the author.
-
----
-
-## 💡 Why this project?
-
-This project explores:
-- embedded UI systems
-- HID device engineering
-- performance optimization on microcontrollers
-
----
-
-## 👀 Preview
-
-- Touch keyboard + mousepad
-- Real-time system monitoring
-- Debug overlay
-
----
-
-## ⚠️ Disclaimer
-
-This project is experimental and intended for development and learning purposes.
