@@ -1,4 +1,4 @@
-#include "Tab5USBHID.h"
+#include "../Tab5USBHID.h"
 
 
 #if SOC_USB_OTG_SUPPORTED
